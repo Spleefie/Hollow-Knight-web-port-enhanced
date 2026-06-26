@@ -4,4 +4,4 @@ An enhanced version of the Hollow Knight web port fork by HorizonOfficia https:/
 - Save manager that allows save files to be imported and exported accessible by pressing ALT+/
 - Improved initial loading screen that shows relevant information
 
-Use index.html for these enhancements.
+Use hk-web-enhanced.html for these enhancements.
